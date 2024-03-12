@@ -1,0 +1,20 @@
+{
+  "name": "ubtq_xkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iloveyou6/ubtq_xkey"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yxrh_xid": "^1.0.0",
+    "nisd_xid": "^1.0.0"
+  }
+}
